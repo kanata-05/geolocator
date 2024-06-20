@@ -39,7 +39,7 @@ IP Geolocator is a versatile tool designed to retrieve detailed geographical inf
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/ip-geolocator.git
+   git clone https://github.com/kanata-05/ip-geolocator.git
    cd ip-geolocator
    ```
 
